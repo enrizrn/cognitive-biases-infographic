@@ -1,0 +1,712 @@
+{
+    "categories": {
+        "muchInformation": {
+            "id": "mi",
+            "categoryName": "Too Much Information",
+            "concepts": {
+                "primedInMemory": {
+                    "id": "pim",
+                    "conceptName": "We notice things already primed in memory or repeated often",
+                    "biases": {
+                        "availabilityHeuristic": {
+                            "biasName": "Availability heuristic"
+                        },
+                        "attentionalBias": {
+                            "biasName": "Attentional bias"
+                        },
+                        "illusoryTruthEffect": {
+                            "biasName": "Illusory truth effect"
+                        },
+                        "mereExposureEffect": {
+                            "biasName": "Mere exposure effect"
+                        },
+                        "contextEffect": {
+                            "biasName": "Context effect"
+                        },
+                        "cueDependentGorgetting": {
+                            "biasName": "Cue-dependent forgetting"
+                        },
+                        "moodCongruentMemoryBias": {
+                            "biasName": "Mood-congruent memory bias"
+                        },
+                        "frequencyIllusion": {
+                            "biasName": "Frequency illusion"
+                        },
+                        "baaderMeinhofPhenomenon": {
+                            "biasName": "Baader-Meinhof Phenomenon"
+                        },
+                        "empathyGap": {
+                            "biasName": "Empathy gap"
+                        },
+                        "omissionBias": {
+                            "biasName": "Omission bias"
+                        },
+                        "baseRateFallacy": {
+                            "biasName": "Base rate fallacy"
+                        }
+                    }
+                },
+                "anthropomorphicThings": {
+                    "id": "at",
+                    "conceptName": "Bizarre, funny, visually-striking, or anthropomorphic things stick out more than non-bizarre/unfunny things",
+                    "biases": {
+                        "bizarrenessEffect": {
+                            "biasName": "Bizarreness effect"
+                        },
+                        "humorEffect": {
+                            "biasName": "Humor effect"
+                        },
+                        "vonRestorffEffect": {
+                            "biasName": "Von Restorff effect"
+                        },
+                        "pictureSuperiorityEffect": {
+                            "biasName": "Picture superiority effect"
+                        },
+                        "selfRelevanceEffect": {
+                            "biasName": "Self-relevance effect"
+                        },
+                        "negativityBias": {
+                            "biasName": "Negativity bias"
+                        }
+                    }
+                },
+                "somethingChanged": {
+                    "id": "sc",
+                    "conceptName": "We notice when something has changed",
+                    "biases": {
+                        "anchoring": {
+                            "biasName": "Anchoring"
+                        },
+                        "sonservatism": {
+                            "biasName": "Conservatism"
+                        },
+                        "contrastEffect": {
+                            "biasName": "Contrast effect"
+                        },
+                        "distinctionBias": {
+                            "biasName": "Distinction bias"
+                        },
+                        "focusingEffect": {
+                            "biasName": "Focusing effect"
+                        },
+                        "framingEffect": {
+                            "biasName": "Framing effect"
+                        },
+                        "moneyIllusion": {
+                            "biasName": "Money illusion"
+                        },
+                        "weberFechnerLaw": {
+                            "biasName": "Weber-Fechner law"
+                        }
+                    }
+                },
+                "confirmBeliefs": {
+                    "id": "cb",
+                    "conceptName": "We are drawn to details that confirm our own existing beliefs",
+                    "biases": {
+                        "confirmationBias": {
+                            "biasName": "Confirmation bias"
+                        },
+                        "congruenceBias": {
+                            "biasName": "Congruence bias"
+                        },
+                        "postPurchaseRationalization": {
+                            "biasName": "Post-purchase rationalization"
+                        },
+                        "choiceSupportiveBias": {
+                            "biasName": "Choice-supportive bias"
+                        },
+                        "selectivePerception": {
+                            "biasName": "Selective perception"
+                        },
+                        "observerExpectancyEffect": {
+                            "biasName": "Observer-expectancy effect"
+                        },
+                        "experimentersBias": {
+                            "biasName": "Experimenter's bias"
+                        },
+                        "observerEffect": {
+                            "biasName": "Observer effect"
+                        },
+                        "expectationBias": {
+                            "biasName": "Expectation bias"
+                        },
+                        "ostrichEffect": {
+                            "biasName": "Ostrich effect"
+                        },
+                        "subjectiveValidation": {
+                            "biasName": "Subjective validation"
+                        },
+                        "continuedInfluenceeffect": {
+                            "biasName": "Continued influence effect"
+                        },
+                        "semmelweisReflex": {
+                            "biasName": "Semmelweis reflex"
+                        }
+                    }
+                },
+                "noticeFlaws": {
+                    "id": "nf",
+                    "conceptName": "We notice flaws in others more easily than we notice flaws in ourselves",
+                    "biases": {
+                        "biasBlindSpot": {
+                            "biasName": "Bias blind spot"
+                        },
+                        "naiveCynicism": {
+                            "biasName": "Naïve cynicism"
+                        },
+                        "naiveRealism": {
+                            "biasName": "Naïve realism"
+                        }
+                    }
+                }
+            }
+        },
+        "notMeaning": {
+            "id": "nm",
+            "categoryName": "Not Enough Meaning",
+            "concepts": {
+                "storiesAndPatters": {
+                    "id": "sp",
+                    "conceptName": "We tend to find stories and patterns even when looking at sparse data",
+                    "biases": {
+                        "confabulation": {
+                            "biasName": "Confabulation"
+                        },
+                        "clusteringIllusion": {
+                            "biasName": "Clustering illusion"
+                        },
+                        "insensitivitySampleSize": {
+                            "biasName": "Insensitivity to sample size"
+                        },
+                        "neglectProbability": {
+                            "biasName": "Neglect of probability"
+                        },
+                        "anecdotalFallacy": {
+                            "biasName": "Anecdotal fallacy"
+                        },
+                        "illusionValidity": {
+                            "biasName": "Illusion of validity"
+                        },
+                        "maskedManFallacy": {
+                            "biasName": "Masked man fallacy"
+                        },
+                        "recentlyIllusion": {
+                            "biasName": "Recently illusion"
+                        },
+                        "gamblersFallacy": {
+                            "biasName": "Gambler's fallacy"
+                        },
+                        "hothandFallacy": {
+                            "biasName": "Hot-hand fallacy"
+                        },
+                        "illusoryCorrelation": {
+                            "biasName": "Illusory correlation"
+                        },
+                        "pareidolia": {
+                            "biasName": "Pareidolia"
+                        },
+                        "anthropomorphism": {
+                            "biasName": "Anthropomorphism"
+                        }
+                    }
+                },
+                "stereotypesAndGeneralities": {
+                    "id": "sg",
+                    "conceptName": "We fill in characteristics from stereotypes, generalities and prior histories",
+                    "biases": {
+                        "groupAttributionError": {
+                            "biasName": "Group attribution error"
+                        },
+                        "ultimateAttributionError": {
+                            "biasName": "Ultimate attribution error"
+                        },
+                        "stereotyping": {
+                            "biasName": "Stereotyping"
+                        },
+                        "essentialism": {
+                            "biasName": "Essentialism"
+                        },
+                        "functionalFixedness": {
+                            "biasName": "Functional fixedness"
+                        },
+                        "moralCredentialEffect": {
+                            "biasName": "Moral credential effect"
+                        },
+                        "justWorldHypothesis": {
+                            "biasName": "Just-world hypothesis"
+                        },
+                        "argumentFromFallacy": {
+                            "biasName": "Argument from fallacy"
+                        },
+                        "authorityBias": {
+                            "biasName": "Authority bias"
+                        },
+                        "bandwagonEffect": {
+                            "biasName": "Bandwagon effect"
+                        },
+                        "placeboEffect": {
+                            "biasName": "Placebo effect"
+                        }
+                    }
+                },
+                "familiarBetter": {
+                    "id": "fb",
+                    "conceptName": "We imagine things and people we're familiar with or fond of as better",
+                    "biases": {
+                        "outGroupHomogeneityBias": {
+                            "biasName": "Out-group homogeneity bias"
+                        },
+                        "crossRaceEffect": {
+                            "biasName": "Cross-race effect"
+                        },
+                        "inGroupBias": {
+                            "biasName": "In-group bias"
+                        },
+                        "haloEffect": {
+                            "biasName": "Halo effect"
+                        },
+                        "cheerleaderEffect": {
+                            "biasName": "Cheerleader effect"
+                        },
+                        "positivityEffect": {
+                            "biasName": "Positivity effect"
+                        },
+                        "notInventedHere": {
+                            "biasName": "Not invented here"
+                        },
+                        "reactiveDevaluation": {
+                            "biasName": "Reactive devaluation"
+                        },
+                        "wellTraveledRoadEffect": {
+                            "biasName": "Well-traveled road effect"
+                        }
+                    }
+                },
+                "probabilitiesAndNumbers": {
+                    "id": "pn",
+                    "conceptName": "We simplify probabilities and numbers to make them easier to think about",
+                    "biases": {
+                        "mentalAccounting": {
+                            "biasName": "Mental accounting"
+                        },
+                        "appealProbabilityFallacy": {
+                            "biasName": "Appeal to probability fallacy"
+                        },
+                        "normalcyBias": {
+                            "biasName": "Normalcy bias"
+                        },
+                        "murphysLaw": {
+                            "biasName": "Murphy's Law"
+                        },
+                        "zeroSumBias": {
+                            "biasName": "Zero sum bias"
+                        },
+                        "survivorshipBias": {
+                            "biasName": "Survivorship bias"
+                        },
+                        "subadditivityEffect": {
+                            "biasName": "Subadditivity effect"
+                        },
+                        "denominationEffect": {
+                            "biasName": "Denomination effect"
+                        },
+                        "magicNumber": {
+                            "biasName": "Magic number 7 + 2"
+                        }
+                    }
+                },
+                "peopleThinkin": {
+                    "id": "pt",
+                    "conceptName": "We think we know what other people are thinking",
+                    "biases": {
+                        "illusionTransparency": {
+                            "biasName": "Illusion of transparency"
+                        },
+                        "curseKnowledge": {
+                            "biasName": "Curse of knowledge"
+                        },
+                        "spotlightEffect": {
+                            "biasName": "Spotlight effect"
+                        },
+                        "extrinsicIncentiveError": {
+                            "biasName": "Extrinsic incentive error"
+                        },
+                        "illusionExternalAgency": {
+                            "biasName": "Illusion of external agency"
+                        },
+                        "illusionAsymmetricInsight": {
+                            "biasName": "Illusion of asymmetric insight"
+                        }
+                    }
+                },
+                "mindsetAndAssumptions": {
+                    "id": "ma",
+                    "conceptName": "We project our current mindset and assumptions onto the past and future",
+                    "biases": {
+                        "telescopingEffect": {
+                            "biasName": "Telescoping effect"
+                        },
+                        "rosyRetrospection": {
+                            "biasName": "Rosy retrospection"
+                        },
+                        "hindsightBias": {
+                            "biasName": "Hindsight bias"
+                        },
+                        "outcomeBias": {
+                            "biasName": "Outcome bias"
+                        },
+                        "moralLuck": {
+                            "biasName": "Moral luck"
+                        },
+                        "declinism": {
+                            "biasName": "Declinism"
+                        },
+                        "impactBias": {
+                            "biasName": "Impact bias"
+                        },
+                        "pessimismBias": {
+                            "biasName": "Pessimism bias"
+                        },
+                        "planningFallacy": {
+                            "biasName": "Planning fallacy"
+                        },
+                        "timeSavingBias": {
+                            "biasName": "Time-saving bias"
+                        },
+                        "proInnovationBias": {
+                            "biasName": "Pro-innovation bias"
+                        },
+                        "projectionBias": {
+                            "biasName": "Projection bias"
+                        },
+                        "restraintBias": {
+                            "biasName": "Restraint bias"
+                        },
+                        "selfConsistencyBias": {
+                            "biasName": "Self-consistency bias"
+                        }
+                    }
+                }
+            }
+        },
+        "actFast": {
+            "id": "af",
+            "categoryName": "We Need To Act Fast",
+            "concepts": {
+                "feelImportant": {
+                    "id": "fi",
+                    "conceptName": "To act, we must be confident we can make an impact and feel what we do is important",
+                    "biases": {
+                        "overconfidenceEffect": {
+                            "biasName": "Overconfidence effect"
+                        },
+                        "socialDesirabilityBias": {
+                            "biasName": "Social desirability bias"
+                        },
+                        "thirdPersonEffect": {
+                            "biasName": "Third-person effect"
+                        },
+                        "falseConsensusEffect": {
+                            "biasName": "False consensus effect"
+                        },
+                        "hardEasyEffect": {
+                            "biasName": "Hard-easy effect"
+                        },
+                        "lakeWobegoneEffect": {
+                            "biasName": "Lake Wobegone effect"
+                        },
+                        "dunningKrugerEffect": {
+                            "biasName": "Dunning-Kruger effect"
+                        },
+                        "egocentricBias": {
+                            "biasName": "Egocentric bias"
+                        },
+                        "optimismBias": {
+                            "biasName": "Optimism bias"
+                        },
+                        "forerEffect": {
+                            "biasName": "Forer effect"
+                        },
+                        "barnumEffect": {
+                            "biasName": "Barnum effect"
+                        },
+                        "selfServingBias": {
+                            "biasName": "Self-serving bias"
+                        },
+                        "actorObserverBias": {
+                            "biasName": "Actor-observer bias"
+                        },
+                        "illusionControl": {
+                            "biasName": "Illusion of control"
+                        },
+                        "illusionSuperiority": {
+                            "biasName": "Illusion superiority"
+                        },
+                        "fundamentalAttributionError": {
+                            "biasName": "Fundamental attribution error"
+                        },
+                        "defensiveAttribution": {
+                            "biasName": "Defensive attribution"
+                        },
+                        "traitAscriptionBias": {
+                            "biasName": "Trait ascription bias"
+                        },
+                        "effortJustification": {
+                            "biasName": "Effort justification"
+                        },
+                        "riskCompensation": {
+                            "biasName": "Risk compensation"
+                        },
+                        "peltzmanEffect": {
+                            "biasName": "Peltzman effect"
+                        }
+                    }
+                },
+                "favorImmediate": {
+                    "id": "fi",
+                    "conceptName": "To stay focused, we favor the immediate, relatable thing in front of us",
+                    "biases": {
+                        "hyperbolicDiscounting": {
+                            "biasName": "Hyperbolic discounting"
+                        },
+                        "appealNovelty": {
+                            "biasName": "Appeal to novelty"
+                        },
+                        "identifiableVictimEffect": {
+                            "biasName": "Identifiable victim effect"
+                        }
+                    }
+                },
+                "completeThings": {
+                    "id": "ct",
+                    "conceptName": "To get things done, we tend to complete things we've invested time & energy in",
+                    "biases": {
+                        "sunkCostFallacy": {
+                            "biasName": "Sunk cost fallacy"
+                        },
+                        "irrationalEscalation": {
+                            "biasName": "Irrational escalation"
+                        },
+                        "escalationCommitment": {
+                            "biasName": "Escalation of commitment"
+                        },
+                        "generationEffect": {
+                            "biasName": "Generation effect"
+                        },
+                        "lossAversion": {
+                            "biasName": "Loss aversion"
+                        },
+                        "ikeaEffect": {
+                            "biasName": "IKEA effect"
+                        },
+                        "unitBias": {
+                            "biasName": "Unit bias"
+                        },
+                        "zeroRiskBias": {
+                            "biasName": "Zero-risk bias"
+                        },
+                        "dispositionEffect": {
+                            "biasName": "Disposition effect"
+                        },
+                        "pseudocertaintyEffect": {
+                            "biasName": "Pseudocertainty effect"
+                        },
+                        "processingDifficultyEffect": {
+                            "biasName": "Processing difficulty effect"
+                        },
+                        "endowmentEffect": {
+                            "biasName": "Endowment effect"
+                        },
+                        "backfireEffect": {
+                            "biasName": "Backfire effect"
+                        }
+                    }
+                },
+                "preserveAutonomy": {
+                    "id": "pa",
+                    "conceptName": "To avoid mistakes, we aim to preserve autonomy and group status, and avoid irreversible decisions",
+                    "biases": {
+                        "systemJustification": {
+                            "biasName": "System justification"
+                        },
+                        "reversePsychology": {
+                            "biasName": "Reverse psychology"
+                        },
+                        "reactance": {
+                            "biasName": "Reactance"
+                        },
+                        "decoyEffect": {
+                            "biasName": "Decoy effect"
+                        },
+                        "socialComparisonBias": {
+                            "biasName": "Social comparison bias"
+                        },
+                        "statusQuoBias": {
+                            "biasName": "Status quo bias"
+                        }
+                    }
+                },
+                "completeInformation": {
+                    "id": "ci",
+                    "conceptName": "We favor simple-looking options and complete information over complex, ambiguous options",
+                    "biases": {
+                        "ambiguityBias": {
+                            "biasName": "Ambiguity bias"
+                        },
+                        "informationBias": {
+                            "biasName": "Information bias"
+                        },
+                        "beliefBias": {
+                            "biasName": "Belief bias"
+                        },
+                        "rhymeReasonEffect": {
+                            "biasName": "Rhyme as reason effect"
+                        },
+                        "bikeSheddingEffect": {
+                            "biasName": "Bike-shedding effect"
+                        },
+                        "lawTriviality": {
+                            "biasName": "Law of Triviality"
+                        },
+                        "delmoreEffect": {
+                            "biasName": "Delmore effect"
+                        },
+                        "conjunctionFallacy": {
+                            "biasName": "Conjunction fallacy"
+                        },
+                        "occamsRazor": {
+                            "biasName": "Occam's razor"
+                        },
+                        "lessBetterEffect": {
+                            "biasName": "Less-is-better effect"
+                        }
+                    }
+                }
+            }
+        },
+        "remember": {
+            "id": "rm",
+            "categoryName": "What Should We Remember?",
+            "concepts": {
+                "reinforceMemories": {
+                    "id": "rm",
+                    "conceptName": "We edit and reinforce some memories after the fact",
+                    "biases": {
+                        "misattributionMemory": {
+                            "biasName": "Misattribution of memory"
+                        },
+                        "sourceConfusion": {
+                            "biasName": "Source confusion"
+                        },
+                        "sryptomnesia": {
+                            "biasName": "Cryptomnesia"
+                        },
+                        "falseMemory": {
+                            "biasName": "False memory"
+                        },
+                        "suggestibility": {
+                            "biasName": "Suggestibility"
+                        },
+                        "spacingEffect": {
+                            "biasName": "Spacing effect"
+                        }
+                    }
+                },
+                "discardSpecifics": {
+                    "id": "ds",
+                    "conceptName": "We discard specifics to form generalities",
+                    "biases": {
+                        "implicitAssociations": {
+                            "biasName": "Implicit associations"
+                        },
+                        "implicitStereotypes": {
+                            "biasName": "Implicit stereotypes"
+                        },
+                        "stereotypicalBias": {
+                            "biasName": "Stereotypical bias"
+                        },
+                        "prejudice": {
+                            "biasName": "Prejudice"
+                        },
+                        "negativityBias": {
+                            "biasName": "Negativity bias"
+                        },
+                        "fadingAffectBias": {
+                            "biasName": "Fading affect bias"
+                        }
+                    }
+                },
+                "reduceEvents": {
+                    "id": "re",
+                    "conceptName": "We reduce events and lists to their key elements",
+                    "biases": {
+                        "peakEndRule": {
+                            "biasName": "Peak-end rule"
+                        },
+                        "levelingAndSharpening": {
+                            "biasName": "Leveling and sharpening"
+                        },
+                        "misinformationEffect": {
+                            "biasName": "Misinformation effect"
+                        },
+                        "serialRecallEffect": {
+                            "biasName": "Serial recall effect"
+                        },
+                        "listLengthEffect": {
+                            "biasName": "List-length effect"
+                        },
+                        "durationNeglect": {
+                            "biasName": "Duration neglect"
+                        },
+                        "modalityEffect": {
+                            "biasName": "Modality effect"
+                        },
+                        "memoryInhibition": {
+                            "biasName": "Memory inhibition"
+                        },
+                        "primaryEffect": {
+                            "biasName": "Primary effect"
+                        },
+                        "recencyEffect": {
+                            "biasName": "Recency effect"
+                        },
+                        "partListCueingEffect": {
+                            "biasName": "Part-list cueing effect"
+                        },
+                        "serialPositionEffect": {
+                            "biasName": "Serial position effect"
+                        },
+                        "suffixEffect": {
+                            "biasName": "Suffix effect"
+                        }
+                    }
+                },
+                "storeDifferently": {
+                    "id": "sd",
+                    "conceptName": "We store memories differently based on how they were experienced",
+                    "biases": {
+                        "processingEffect": {
+                            "biasName": "Levels of processing effect"
+                        },
+                        "absentMindedness": {
+                            "biasName": "Absent-mindedness"
+                        },
+                        "testingEffect": {
+                            "biasName": "Testing effect"
+                        },
+                        "nextLineEffect": {
+                            "biasName": "Next-in-line effect"
+                        },
+                        "googleEffect": {
+                            "biasName": "Google effect"
+                        },
+                        "tipTongueEffect": {
+                            "biasName": "Tip of the tongue effect"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
